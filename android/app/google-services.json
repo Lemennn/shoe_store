@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188917610910",
+    "project_id": "maspam-f5dd3",
+    "storage_bucket": "maspam-f5dd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188917610910:android:e76f294d88beec0c2abe8f",
+        "android_client_info": {
+          "package_name": "com.maspam.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188917610910-6q6mtd5dpveq7jt2u1g9122dilrq9knn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7KgewGCJhP18gdVn-4J1oHj9hfrOLjxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188917610910-6q6mtd5dpveq7jt2u1g9122dilrq9knn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
